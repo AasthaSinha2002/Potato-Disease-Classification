@@ -1,1 +1,1 @@
-# Potato-Disease-Classification
+# Farm Tech - Potato Disease Classification Using CNN
